@@ -1,0 +1,14 @@
+C:\Users\JayC\source\repos\Visual Weather App\Visual Weather App\bin\Debug\Visual Weather App.exe.config
+C:\Users\JayC\source\repos\Visual Weather App\Visual Weather App\bin\Debug\Visual Weather App.exe
+C:\Users\JayC\source\repos\Visual Weather App\Visual Weather App\bin\Debug\Visual Weather App.pdb
+C:\Users\JayC\source\repos\Visual Weather App\Visual Weather App\obj\Debug\Visual Weather App.csproj.AssemblyReference.cache
+C:\Users\JayC\source\repos\Visual Weather App\Visual Weather App\obj\Debug\Visual_Weather_App.Properties.Resources.resources
+C:\Users\JayC\source\repos\Visual Weather App\Visual Weather App\obj\Debug\Visual Weather App.csproj.GenerateResource.cache
+C:\Users\JayC\source\repos\Visual Weather App\Visual Weather App\obj\Debug\Visual Weather App.csproj.CoreCompileInputs.cache
+C:\Users\JayC\source\repos\Visual Weather App\Visual Weather App\obj\Debug\Visual Weather App.exe
+C:\Users\JayC\source\repos\Visual Weather App\Visual Weather App\obj\Debug\Visual Weather App.pdb
+C:\Users\JayC\source\repos\Visual Weather App\Visual Weather App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JayC\source\repos\Visual Weather App\Visual Weather App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JayC\source\repos\Visual Weather App\Visual Weather App\obj\Debug\VisualWeatherApp.MainWindow.resources
+C:\Users\JayC\source\repos\Visual Weather App\Visual Weather App\obj\Debug\Visual Weather App.csproj.CopyComplete
+C:\Users\JayC\source\repos\Visual Weather App\Visual Weather App\obj\Debug\Visual_Weather_App.Windows.PreferenceWindow.resources
